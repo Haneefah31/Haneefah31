@@ -28,7 +28,7 @@ Take a look at some of my work in my repositories!
 ### 📫 Let's Connect
 
 - 📧 Email: anifatayinde31@gmail.com
-- 💻 GitHub: (https://github.com/Haneefah)
+- 💻 GitHub: (https://github.com/Haneefah31)
 
 ---
 
