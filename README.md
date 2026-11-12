@@ -1,21 +1,37 @@
-👋 Hi, I'm Ayinde Anifat Aduragbemi! (Web Wizzards)
 
-💻 Creative Software Engineer | Innovative Thinker | Problem Solver
-I'm a passionate and detail-oriented software engineer with hands-on experience in HTML, CSS, and JavaScript and Git. I enjoy creating clean, responsive websites that are both user-friendly, interactive and visually appealing.
+<h1 align="center">👋 Hi, I'm Ayinde Anifat Aduragbemi!</h1>
 
+<h3 align="center">Creative Software Engineer | Creative Designer | Problem Solver</h3>
 
-🔧 Skills
-•	💡 HTML5 | CSS3 | JavaScript 
-•	🎨 CorelDRAW | Canva | PixelLab
-•	🌐 Responsive Web Design | Flexbox | Grid | CSS Transform andTransitions 
-•	🚀 Deployment: Vercel, Netlify, GitHub Pages
-•	🧰 Tools: Git, GitHub, Microsoft Office
+<p align="center">
+  Turning ideas into beautiful and interactive digital experiences.
+</p>
 
+---
 
-📫 Let's Connect!
-•	✉️ anifatayinde31@gmail.com
-•	🌍 (https://github.com/Haneefah)
+### 👩‍💻 About Me
 
+I'm a Software Engineer based in Lagos, passionate about building modern, responsive, and user-friendly websites. I enjoy combining technology with creativity to create meaningful digital experiences.
 
-🌟 Thank you for visiting my profile!
+### 🛠️ Skills & Technologies
 
+- 🌐 HTML5 | CSS3 | JavaScript
+- 🎨 CorelDRAW | Canva | PixelLab
+- 💻 Responsive Web Design | Flexbox | CSS Grid
+- ⚡ Git | GitHub | VS Code
+- 🚀 Vercel | Netlify | GitHub Pages
+
+### 📂 Featured Projects
+
+Take a look at some of my work in my repositories!
+
+### 📫 Let's Connect
+
+- 📧 Email: anifatayinde31@gmail.com
+- 💻 GitHub: (https://github.com/Haneefah)
+
+---
+
+<p align="center">
+  <i>Creativity meets technology. Let's build something amazing!</i>
+</p>
